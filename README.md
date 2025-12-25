@@ -3,74 +3,64 @@
 </p>
 <p align="center"><h1 align="center">REVENEW-PREDOICTION</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
 </p>
+
+<p align="center"><h1 align="center">BOX OFFICE REVENUE PREDICTION</h1></p>
+
+<p align="center">
+	<em>Predicting movie box office revenue using Machine Learning regression models</em>
+</p>
+
 <p align="center">
 	<img src="https://img.shields.io/github/license/Tushar2002bogir/Revenew-predoiction?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Tushar2002bogir/Revenew-predoiction?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Tushar2002bogir/Revenew-predoiction?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Tushar2002bogir/Revenew-predoiction?style=default&color=0080ff" alt="repo-language-count">
 </p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-<br>
-
-##  Table of Contents
-
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Project Structure](#-project-structure)
-  - [ Project Index](#-project-index)
-- [ Getting Started](#-getting-started)
-  - [ Prerequisites](#-prerequisites)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Testing](#-testing)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
 
 ---
 
-##  Overview
+## 📑 Table of Contents
 
-<code>❯ REPLACE-ME</code>
+- [Overview](#-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Project Roadmap](#-project-roadmap)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
-##  Features
+## 🔍 Overview
 
-<code>❯ REPLACE-ME</code>
+This project focuses on **predicting box office revenue of movies** using **Machine Learning regression techniques**.  
+It helps movie producers and investors estimate revenue based on important features such as budget and other movie-related attributes.
+
+The project is implemented using **Python and Jupyter Notebook**, applying **Linear Regression** and **Decision Tree Regression** models.
 
 ---
 
-##  Project Structure
+## ✨ Features
+
+- Data preprocessing and cleaning
+- Feature selection and engineering
+- Linear Regression model
+- Decision Tree Regression model
+- Model training and evaluation
+- Revenue prediction for unseen data
+- Simple visualization for analysis
+
+---
+
+## 🗂 Project Structure
 
 ```sh
 └── Revenew-predoiction/
     └── kernel (1).ipynb
-```
-
-
-###  Project Index
-<details open>
-	<summary><b><code>REVENEW-PREDOICTION/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Tushar2002bogir/Revenew-predoiction/blob/master/kernel (1).ipynb'>kernel (1).ipynb</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
 
 ---
 ##  Getting Started
